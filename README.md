@@ -112,7 +112,7 @@ Summarizes total sales and profits for each retailer.
 Allows for easy comparison of profitability across multiple retailers.
 Provides key insights into which retailers are most profitable.
 
-![Dax](https://github.com/Sumitdighe10/Adidas-US-Sales-Dashboard/blob/main/DAX%20formula%20for%20Dynamic%20Summary.png)
+![Dax]()
 
 📊 Power BI Visualizations & Insights
 📌 Key Visualizations Used:
